@@ -18,7 +18,8 @@
     height: 480px;
     position: relative;
     margin: 6% auto;
-    background: #fff;
+    background: transparent;
+    backdrop-filter: blur(7px);
     padding: 5px;
     overflow: hidden;  
     border-radius: 1%;
